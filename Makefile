@@ -7,7 +7,7 @@ DAY6= day6.cpp
 DAY7= day7.cpp
 DAY8= day8.cpp
 DAY9= day9.cpp
-FLAGS = --std=c++11
+FLAGS = --std=c++11 -g
 COMPILER = g++
 BINDIR = bin
 
