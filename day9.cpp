@@ -35,7 +35,6 @@ int main()
     //ifstream in("dayx");
     ifstream in("test");
     string line;
-    vector<Reg> registers;
     vector<string> op_list;
 
     while(getline(in, line))
